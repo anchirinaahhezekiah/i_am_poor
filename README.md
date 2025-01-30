@@ -37,7 +37,7 @@ i_am_poor/
 ```
 
  🖼️ Screenshot  
-![I Am Poor App](assets/coal.png)  
+![I Am Poor App](images/Coal.png)  
 
 🎓 Learning Points  
 - Setting up a Flutter project  
