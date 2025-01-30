@@ -1,16 +1,47 @@
-# i_am_poor
+ I Am Poor 💸  
 
-A new Flutter project.
+A simple Flutter app inspired by the "I Am Rich" app, but with a humorous twist! This beginner-friendly project helps in understanding Flutter basics, including UI structure, widgets, and asset management.  
 
-## Getting Started
+ 📱 Features  
+- Displays a single image of a lump of coal (or any other "poor" symbol).  
+- Uses Flutter's `MaterialApp`, `Scaffold`, and `Image.asset()` widgets.  
+- A great practice project for learning Flutter fundamentals.  
 
-This project is a starting point for a Flutter application.
+ 🛠️ Installation  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/i_am_poor.git
+   ```
+2. Navigate to the project folder:  
+   ```bash
+   cd i_am_poor
+   ```
+3. Get dependencies:  
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:  
+   ```bash
+   flutter run
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+📂 Project Structure  
+```
+i_am_poor/
+│── assets/
+│   ├── coal.png   # Image displayed in the app
+│── lib/
+│   ├── main.dart  # Main entry point of the app
+│── pubspec.yaml   # Project dependencies & assets
+│── README.md
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ 🖼️ Screenshot  
+![I Am Poor App](assets/coal.png)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎓 Learning Points  
+- Setting up a Flutter project  
+- Using `Scaffold` and `AppBar`  
+- Adding and displaying images from assets  
+- Centering UI elements  
+
