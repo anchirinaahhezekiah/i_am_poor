@@ -29,10 +29,10 @@ A simple Flutter app inspired by the "I Am Rich" app, but with a humorous twist!
 ```
 i_am_poor/
 │── assets/
-│   ├── coal.png   # Image displayed in the app
+│   ├── coal.png   //Image displayed in the app
 │── lib/
-│   ├── main.dart  # Main entry point of the app
-│── pubspec.yaml   # Project dependencies & assets
+│   ├── main.dart  // Main entry point of the app
+│── pubspec.yaml   // Project dependencies & assets
 │── README.md
 ```
 
