@@ -10,7 +10,7 @@ A simple Flutter app inspired by the "I Am Rich" app, but with a humorous twist!
  🛠️ Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-anchirinaahhezekiah/i_am_poor.git
+   git clone https://github.com/anchirinaahhezekiah/i_am_poor.git
    ```
 2. Navigate to the project folder:  
    ```bash
